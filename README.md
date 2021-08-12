@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 
-:PHP: :JavaScript: :xx_html: :xx_css: 
+java
 
