@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there, I am Wupc 👋
 
 Here are some ideas to get you started:
 
