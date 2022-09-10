@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Web Development Full-stack
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: Valorant Pro
 
 ## 🧰 Languages and Tools:
