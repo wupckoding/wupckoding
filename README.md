@@ -58,18 +58,7 @@ final class Bruno extends Developer
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wupckoding&show_icons=true&hide_border=true&count_private=true&title_color=00e59b&icon_color=22d3ee&text_color=d9e4f1&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wupckoding&hide_border=true&background=0d1117&stroke=1d2b45&ring=00e59b&fire=22d3ee&currStreakLabel=00e59b&sideLabels=d9e4f1&dates=8296b1&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-
-<img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wupckoding&layout=compact&hide_border=true&langs_count=8&title_color=00e59b&text_color=d9e4f1&bg_color=0d1117" alt="linguagens" />
-
-</div>
-
-## Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wupckoding&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" alt="troféus" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wupckoding&hide_border=true&background=0d1117&stroke=1d2b45&ring=00e59b&fire=22d3ee&currStreakLabel=00e59b&sideLabels=d9e4f1&dates=8296b1&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
 
 </div>
 
