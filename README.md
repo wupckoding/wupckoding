@@ -1,108 +1,90 @@
-<h1 align="center">Hey, I'm Bruno 👋</h1>
+<div align="center">
 
-<p align="center">
-  Full-Stack Developer building modern web experiences, scalable systems, and digital products that solve real business problems.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e59b,50:22d3ee,100:8b5cf6&height=230&section=header&text=Bruno%20%C2%B7%20wupckoding&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Tooling%20%7C%20Payments&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  Based in Costa Rica 🇨🇷
-</p>
+<a href="https://github.com/wupckoding">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=00E59B&center=true&vCenter=true&width=760&lines=Eu+construo+coisas+que+funcionam.;Gateways+de+IA+%2B+Claude+Code+tooling;Integra%C3%A7%C3%B5es+de+pagamento+PIX+em+produ%C3%A7%C3%A3o;PHP+%C2%B7+MySQL+%C2%B7+JavaScript+%C2%B7+LLM+APIs;Do+zero+ao+deploy%2C+sozinho." alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://jbnexo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-JB%20Nexo-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-de-sousa-henz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20De%20Sousa%20Henz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bruno@jbnexo.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=wupckoding&label=Profile%20views&color=00e59b&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/wupckoding?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
+<img src="https://img.shields.io/badge/Open%20to%20work-YES-00e59b?style=for-the-badge" alt="open to work"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+### `> whoami`
 
-I'm a developer focused on building high-quality digital products with clean UI, solid structure, and real-world usefulness.
-
-I like working on:
-- modern web applications
-- full-stack systems
-- landing pages that convert
-- automation and business tools
-- scalable digital products
-
-My mindset is simple: build things that are fast, useful, and look premium.
-
----
-
-## 🧠 Current Focus
-
-- Building full-stack web applications
-- Improving product design and user experience
-- Creating business-driven software solutions
-- Deepening my backend and architecture skills
-- Shipping projects that are production-ready
+```js
+const bruno = {
+  handle: "wupckoding",
+  role: "Full-Stack Developer",
+  building: ["Gateways de IA", "Ferramentas p/ Claude Code", "Checkouts PIX"],
+  stack: ["PHP", "MySQL", "JavaScript", "APIs de LLM"],
+  mindset: "do zero ao deploy — eu entrego funcionando",
+  currently: "🚀 Painel Claude Code — proxy que roda IA em modelos gratuitos"
+};
+```
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Stack
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
+<div align="center">
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase" />
-</p>
+![Skills](https://skillicons.dev/icons?i=php,mysql,js,html,css,apache,git,python,linux,vscode&perline=10)
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-</p>
-
----
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wupckoding&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wupckoding&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wupckoding&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📚 What I Value
+### 📊 GitHub em números
 
-- Clean code
-- Performance
-- UI/UX quality
-- Real problem solving
-- Consistency over hype
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wupckoding&show_icons=true&hide_border=true&count_private=true&title_color=00e59b&icon_color=22d3ee&text_color=d9e4f1&bg_color=0d1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=wupckoding&hide_border=true&background=0d1117&stroke=1d2b45&ring=00e59b&fire=22d3ee&currStreakLabel=00e59b&sideLabels=d9e4f1&dates=8296b1&currStreakNum=ffffff&sideNums=ffffff" />
 
-## 🤝 Let's Connect
+<img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wupckoding&layout=compact&hide_border=true&langs_count=8&title_color=00e59b&text_color=d9e4f1&bg_color=0d1117" />
 
-<p>
-  <a href="https://jbnexo.com" target="_blank">Website</a> •
-  <a href="https://www.linkedin.com/in/bruno-de-sousa-henz" target="_blank">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  Built with focus, curiosity, and the mindset of always improving.
-</p>
+### 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=wupckoding&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wupckoding&bg_color=0d1117&color=00e59b&line=22d3ee&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Vamos conversar
+
+<a href="mailto:wupckoding@gmail.com"><img src="https://img.shields.io/badge/Email-wupckoding@gmail.com-ff5c6c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/wupckoding"><img src="https://img.shields.io/badge/GitHub-wupckoding-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Não espero a oportunidade. Eu compilo ela."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:22d3ee,100:00e59b&height=120&section=footer" width="100%"/>
+
+</div>
